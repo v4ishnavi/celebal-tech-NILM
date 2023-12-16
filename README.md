@@ -13,4 +13,6 @@ Methodology
 - Techniques like FFT were applied to separate and understand individual energy consumption components within the dataset.
 
 Data Source
-The analysis uses the "Household Power Consumption" dataset. Details and access to this dataset can be found in the report. It isn't uploaded as the file size is too large. 
+The analysis uses the "Household Power Consumption" dataset. Details and access to this dataset can be found in the report and are given below. It isn't uploaded as the file size is too large. 
+http://arxiv.org/abs/1004.0456. 
+http://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
